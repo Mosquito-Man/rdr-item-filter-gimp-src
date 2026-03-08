@@ -1,5 +1,5 @@
 # rdr-item-filter-gimp
-`rdr-item-filter-gimp` is a GIMP 3 plugin that applies a Red Dead-style item render look to a selected layer.
+`rdr-item-filter-gimp` is a GIMP 3 plugin that applies a `Red Dead Redemption 2 all white` -style item render look to a selected layer.
 
 It gives you a quick, repeatable pipeline for stylized item images with adjustable controls.
 

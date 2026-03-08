@@ -13,6 +13,10 @@ After you confirm, it applies the effect pipeline in order:
 
 This keeps the output clean while still allowing fast artistic tweaks.
 
+
+## Video Tutorial
+- Installation and usage walkthrough: https://youtu.be/5ytTx_SWh04
+
 ## Installation (GIMP 3)
 1. Close GIMP if it is running.
 2. Copy this plugin folder into your GIMP user plug-ins path in `%appdata%`:

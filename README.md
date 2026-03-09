@@ -33,3 +33,5 @@ This keeps the output clean while still allowing fast artistic tweaks.
 - Designed for GIMP 3.0 and up.
 - The filter runs on the currently selected drawable/layer.
 - If the menu entry does not appear, restart GIMP after confirming files are in the correct plug-ins folder.
+- Resolution matters.
+- Last but not least, this works best on well lit images, if your image is too dark in certain areas make sure to turn up the brightness/exposure before applying the filter.

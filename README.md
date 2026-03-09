@@ -27,7 +27,7 @@ This keeps the output clean while still allowing fast artistic tweaks.
 4. Start GIMP.
 5. Open an image and select a layer (must have a transparent and alpha channel).
 6. Then navigate and apply filter through menu:
-	`Filters > Artistic > RDR Item Style Once`
+	`Filters > Artistic > RDR Item Style`
 
 ## Notes
 - Designed for GIMP 3.0 and up.
